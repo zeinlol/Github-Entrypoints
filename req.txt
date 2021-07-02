@@ -1,4 +1,3 @@
-boto3
-colorama
 requests
-kickdomain
+colored
+tldextract
